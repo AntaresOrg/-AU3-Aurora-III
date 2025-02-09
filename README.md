@@ -4,6 +4,6 @@ Concebido para ser nosso último, e melhor, foguete de 1km, o Aurora III avanço
 
 # Subsistemas
 
- - Aviônica
- - Telemetria
+ - [Aviônica](https://github.com/AntaresOrg/-AU3-Avionica)
+ - [Telemetria](https://github.com/AntaresOrg/-AU3-Telemetria)
  - Payload
